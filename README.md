@@ -1,4 +1,4 @@
-# ROS 2 Perception & Manipulation Lab
+# ROS lab: Autonomous SLAM, Object Detection, and Manipulation with TurtleBot3
 
 **Camera–LiDAR object localization in a TurtleBot3 navigation and manipulation pipeline.**
 
